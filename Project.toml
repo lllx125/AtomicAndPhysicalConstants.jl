@@ -10,6 +10,7 @@ JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 PyFormattedStrings = "5f89f4a4-a228-4886-b223-c468a82ed5b9"
 
 [compat]
+HTTP = "1"
 julia = "1"
 
 [extras]
